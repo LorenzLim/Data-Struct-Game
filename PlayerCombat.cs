@@ -58,3 +58,4 @@ public class PlayerCombat : MonoBehaviour
             anim.SetBool("IsAttacking", false);
     }
 }
+
